@@ -1,0 +1,37 @@
+.circle {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: orange;
+  opacity: 0.8;
+}
+* {
+  color: #969696;
+  font-family: sans-serif;
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.circle i {
+  font-size: 60px;
+  padding: 20px
+}
+
+#section {
+  width: 100%;
+  margin-top: 50px;
+}
+hr {
+  width: 30%;
+  margin-left: 240px;
+}
+
+h2 {
+  padding: 20px;
+}
